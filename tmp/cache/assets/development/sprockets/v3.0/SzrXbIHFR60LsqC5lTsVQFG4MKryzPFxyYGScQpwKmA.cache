@@ -1,0 +1,34 @@
+I"/
+/*!
+  Copyright (c) 2015 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+ */
+
+(function() {
+  window.classNames = function() {
+    var arg, argType, classes, i, key, len;
+    classes = '';
+    for (i = 0, len = arguments.length; i < len; i++) {
+      arg = arguments[i];
+      if (!arg) {
+        continue;
+      }
+      argType = typeof arg;
+      if ('string' === argType || 'number' === argType) {
+        classes += ' ' + arg;
+      } else if (Array.isArray(arg)) {
+        classes += ' ' + classNames.apply(null, arg);
+      } else if ('object' === argType) {
+        for (key in arg) {
+          if (arg.hasOwnProperty(key) && arg[key]) {
+            classes += ' ' + key;
+          }
+        }
+      }
+    }
+    return classes.substr(1);
+  };
+
+}).call(this);
+:ET

@@ -1,0 +1,3245 @@
+
+
+Started GET "/" for ::1 at 2015-06-25 13:25:56 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (1619.2ms)
+Completed 200 OK in 2291ms (Views: 2280.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:25:59 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:25:59 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:25:59 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:25:59 +1000
+
+
+Started GET "/assets/components/app.self-5fad26b2f0a2548981b0adb1ac4d5862a1da1f7a8e9b3b6f14e228379bbd02c3.js?body=1" for ::1 at 2015-06-25 13:25:59 +1000
+
+
+Started GET "/assets/components/button.self-7230284ee94adaa6b2ac0b721a4414799f192da71a7bac6e51bb84e9baaeefb1.js?body=1" for ::1 at 2015-06-25 13:25:59 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:25:59 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:26:54 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (79.8ms)
+Completed 200 OK in 568ms (Views: 566.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/components/app.self-5fad26b2f0a2548981b0adb1ac4d5862a1da1f7a8e9b3b6f14e228379bbd02c3.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:26:55 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:27:24 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (62.4ms)
+Completed 200 OK in 454ms (Views: 453.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/components/app.self-1b232d55cf73b1a9926303769862df5c143fbf9090e6c2fab035606a2f2ef704.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:27:24 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:28:09 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (89.0ms)
+Completed 200 OK in 517ms (Views: 516.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:28:10 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:28:47 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (86.4ms)
+Completed 200 OK in 537ms (Views: 536.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/components/app.self-7e10b32d054b51038ebd1a496fd3b95d4e46f2dcf58eaff6c75c43e352961012.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:28:48 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:29:28 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (778.1ms)
+Completed 200 OK in 950ms (Views: 940.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:29:29 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:29:29 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:29:29 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:29:29 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:29:30 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:31:05 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (88.0ms)
+Completed 500 Internal Server Error in 166ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (couldn't find file 'lib' with type 'application/javascript'):
+    4:   %head
+    5:     %title Sample React.js with Rails Application
+    6:     = stylesheet_link_tag 'application', media: 'all'
+    7:     = javascript_include_tag 'application'
+    8:     = csrf_meta_tags
+    9: 
+   10:   %body
+  app/assets/javascripts/application.js.coffee:3
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml___4322229259178635509_70237165148120'
+
+
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.3ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.4ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (100.7ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (72.3ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (171.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-25 13:31:21 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (70.1ms)
+Completed 200 OK in 624ms (Views: 622.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:31:22 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:32:08 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (76.5ms)
+Completed 200 OK in 450ms (Views: 449.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-d3cba985038ddf93a00c45ba1940bde8feca9e7fba260e18fc9e538819b1914e.css?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/modal.self-27e7b56a7fb7b396e82efd83870d15dfbf90a7211622d334d75ac2a9303b28c4.css?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:32:09 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:34:07 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (89.6ms)
+Completed 200 OK in 330ms (Views: 328.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-d3cba985038ddf93a00c45ba1940bde8feca9e7fba260e18fc9e538819b1914e.css?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/modal.self-1d6b8b35a2589361171e55e8e8e81979ae8b6423f70572f5cd3ad9f5415b4c37.css?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:34:08 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:36:02 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (76.8ms)
+Completed 200 OK in 225ms (Views: 224.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-d3cba985038ddf93a00c45ba1940bde8feca9e7fba260e18fc9e538819b1914e.css?body=1" for ::1 at 2015-06-25 13:36:02 +1000
+
+
+Started GET "/assets/modal.self-e830a4d8b32d3a4bab97380d0836b1979fbeff8628e2eeb1b32f143372503d8a.css?body=1" for ::1 at 2015-06-25 13:36:02 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:36:02 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:36:02 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:36:02 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:36:03 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:36:43 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (74.0ms)
+Completed 200 OK in 231ms (Views: 229.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-7dbca68eea9834b64cfe08d90597136442fd87205a1bfc246977816d027fcd08.css?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/modal.self-e830a4d8b32d3a4bab97380d0836b1979fbeff8628e2eeb1b32f143372503d8a.css?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:36:43 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:37:56 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (75.8ms)
+Completed 200 OK in 243ms (Views: 242.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-7dbca68eea9834b64cfe08d90597136442fd87205a1bfc246977816d027fcd08.css?body=1" for ::1 at 2015-06-25 13:37:56 +1000
+
+
+Started GET "/assets/modal.self-7cd8531cca2ff0c485f7c3fee8dee5f588be334a25ac2cc805250e95428620f1.css?body=1" for ::1 at 2015-06-25 13:37:56 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:37:56 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/components/app.self-ab7e9cb9d74c66a69358ff63d355225ebfc9e619d0758b839f1d1b595605e1b6.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/components/button.self-0a51ecf31063ed0d3d37461fd47acc361984cf2a23e9ad570fe3ff95538d1052.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:37:57 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:39:56 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (87.5ms)
+Completed 200 OK in 544ms (Views: 543.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-7dbca68eea9834b64cfe08d90597136442fd87205a1bfc246977816d027fcd08.css?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/modal.self-7cd8531cca2ff0c485f7c3fee8dee5f588be334a25ac2cc805250e95428620f1.css?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:39:56 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:39:57 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:39:57 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:39:57 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:39:57 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:39:57 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:39:57 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:40:26 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (71.2ms)
+Completed 200 OK in 218ms (Views: 217.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-7dbca68eea9834b64cfe08d90597136442fd87205a1bfc246977816d027fcd08.css?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/modal.self-a66985e8f1635e90c8c2063efd3224300d4b2f25dfe0eb25b3c67c279754a765.css?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:40:26 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:40:41 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (72.9ms)
+Completed 200 OK in 212ms (Views: 211.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-7dbca68eea9834b64cfe08d90597136442fd87205a1bfc246977816d027fcd08.css?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/modal.self-50a9004f9d103819fc8439e5af7d86e134ff6da7d08e5803a1793668c4bd6abf.css?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:40:41 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:40:57 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (70.7ms)
+Completed 200 OK in 165ms (Views: 163.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-7dbca68eea9834b64cfe08d90597136442fd87205a1bfc246977816d027fcd08.css?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/modal.self-a66985e8f1635e90c8c2063efd3224300d4b2f25dfe0eb25b3c67c279754a765.css?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:40:58 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:43:41 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (119.3ms)
+Completed 200 OK in 426ms (Views: 425.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-5836173a0a38d37c92d1502995018b8668fbeb464d677868e23ac28dd3da435d.css?body=1" for ::1 at 2015-06-25 13:43:41 +1000
+
+
+Started GET "/assets/modal.self-a66985e8f1635e90c8c2063efd3224300d4b2f25dfe0eb25b3c67c279754a765.css?body=1" for ::1 at 2015-06-25 13:43:41 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:43:41 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:43:41 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:43:41 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:43:42 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:44:16 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (67.3ms)
+Completed 200 OK in 204ms (Views: 203.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-2cb7595364c8dd8af7f926143e9d69d7f1ae4802a3c4581117d41d35756882fb.css?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/modal.self-a66985e8f1635e90c8c2063efd3224300d4b2f25dfe0eb25b3c67c279754a765.css?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:44:16 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:44:39 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (66.9ms)
+Completed 200 OK in 221ms (Views: 220.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-2cb7595364c8dd8af7f926143e9d69d7f1ae4802a3c4581117d41d35756882fb.css?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/modal.self-40863b7768fa4c15eb2f331611316b84cfa460d4d274beea9483758f287b36ac.css?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:44:39 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:45:13 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (63.7ms)
+Completed 200 OK in 215ms (Views: 214.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-2cb7595364c8dd8af7f926143e9d69d7f1ae4802a3c4581117d41d35756882fb.css?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/modal.self-1870158f68c0825210b5178a9e23f85eb0b5c66dca534af18ab325f04085df0b.css?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:45:13 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:46:38 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (76.1ms)
+Completed 200 OK in 220ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-2cb7595364c8dd8af7f926143e9d69d7f1ae4802a3c4581117d41d35756882fb.css?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/modal.self-0d6cb642caf8e10786aff0c0aef62c0ff9e2bc71a26a08ed71ab4e6eadc01aba.css?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:46:39 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:47:08 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (71.8ms)
+Completed 200 OK in 252ms (Views: 250.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-08d11aabdf1bdfe046fe97a41bacbd789590133dc2a99e53a4582d2438193daa.css?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/modal.self-0d6cb642caf8e10786aff0c0aef62c0ff9e2bc71a26a08ed71ab4e6eadc01aba.css?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:47:08 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:48:33 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (103.8ms)
+Completed 200 OK in 327ms (Views: 325.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-1652c46a8468d5afb8b002509744e6e084668adef69068c891976944c1505369.css?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/components/app.self-813706a94bcc80d0f79ef8838c101afaa317a34f919ae4ce55948dfc08329236.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:48:33 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:51:17 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (74.6ms)
+Completed 500 Internal Server Error in 347ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (SyntaxError: opening CJSX tag div doesn't match closing CJSX tag a):
+    4:   %head
+    5:     %title Sample React.js with Rails Application
+    6:     = stylesheet_link_tag 'application', media: 'all'
+    7:     = javascript_include_tag 'application'
+    8:     = csrf_meta_tags
+    9: 
+   10:   %body
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml___4322229259178635509_70237165148120'
+
+
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.7ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (87.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (64.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (145.5ms)
+
+
+Started GET "/" for ::1 at 2015-06-25 13:52:11 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (83.7ms)
+Completed 200 OK in 585ms (Views: 584.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-0bf231c7580d8dffcf1415b6538c98e5cb211cae4f085f5beff52ad0cb512548.css?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/body.self-1652c46a8468d5afb8b002509744e6e084668adef69068c891976944c1505369.css?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:52:12 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:52:32 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (75.7ms)
+Completed 200 OK in 211ms (Views: 209.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-e89d5c664e17156a26bad61100be77d31fcb39adab2ea3df17533c533942c73e.css?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/acknowledgements.self-0bf231c7580d8dffcf1415b6538c98e5cb211cae4f085f5beff52ad0cb512548.css?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:52:33 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:53:57 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (74.5ms)
+Completed 200 OK in 220ms (Views: 218.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-0bf231c7580d8dffcf1415b6538c98e5cb211cae4f085f5beff52ad0cb512548.css?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/body.self-d286e968652d3aa4b7c9689024d4ba425cf825b76a8c84e7ce97a50a402e7edd.css?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:53:58 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:54:52 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (80.0ms)
+Completed 500 Internal Server Error in 116ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "  font-size": expected ";", was ": 1rem;"):
+    3: 
+    4:   %head
+    5:     %title Sample React.js with Rails Application
+    6:     = stylesheet_link_tag 'application', media: 'all'
+    7:     = javascript_include_tag 'application'
+    8:     = csrf_meta_tags
+    9: 
+  app/assets/stylesheets/acknowledgements.scss:8
+  app/views/layouts/application.html.haml:6:in `_app_views_layouts_application_html_haml___4322229259178635509_70237165148120'
+
+
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.3ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (92.6ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (67.6ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/craigs/.rvm/gems/ruby-2.2.2/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (151.8ms)
+
+
+Started GET "/" for ::1 at 2015-06-25 13:55:01 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (71.3ms)
+Completed 200 OK in 215ms (Views: 214.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-e8571153b71d7abfbb6e0ec9cacb63ce5ed40d49f345d1327a7581e5dd2bdc4b.css?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/assets/body.self-d286e968652d3aa4b7c9689024d4ba425cf825b76a8c84e7ce97a50a402e7edd.css?body=1" for ::1 at 2015-06-25 13:55:01 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:55:42 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (67.6ms)
+Completed 200 OK in 225ms (Views: 224.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-5d91044dffc54f8dd5913c31bd3337247ac7870b9cb8ed2a77e81d61866537a3.css?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/body.self-76e30a3c739e4311da415d56e9b1cd1b239ed4b7503077e892881536ff8a09da.css?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:55:42 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:56:02 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (74.1ms)
+Completed 200 OK in 216ms (Views: 215.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-5d91044dffc54f8dd5913c31bd3337247ac7870b9cb8ed2a77e81d61866537a3.css?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/body.self-a871c1405b80ca1d22459bd8181ce6d912695e37d24cce074e171bcb24e131a9.css?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:56:02 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:56:33 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (73.6ms)
+Completed 200 OK in 207ms (Views: 206.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-5d91044dffc54f8dd5913c31bd3337247ac7870b9cb8ed2a77e81d61866537a3.css?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/body.self-9d195b16dc2eca47596c26921c95189168e54f777c3722e072d1ed1d79fe57ff.css?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:56:35 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:57:00 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (64.1ms)
+Completed 200 OK in 185ms (Views: 183.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-5d91044dffc54f8dd5913c31bd3337247ac7870b9cb8ed2a77e81d61866537a3.css?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/body.self-d908ef573092c9583f556776b50dda38fa8daa3ed36e08a7743bee0f2f691171.css?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:57:00 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:57:21 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (70.1ms)
+Completed 200 OK in 199ms (Views: 198.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/body.self-d908ef573092c9583f556776b50dda38fa8daa3ed36e08a7743bee0f2f691171.css?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/components/app.self-1cd89ca2b06ee6ac19883bfa742fd53d17f2a591df95185574fe61ce73fb7253.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:57:22 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:59:01 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (91.1ms)
+Completed 200 OK in 609ms (Views: 608.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/body.self-d908ef573092c9583f556776b50dda38fa8daa3ed36e08a7743bee0f2f691171.css?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 13:59:01 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 13:59:40 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (93.1ms)
+Completed 200 OK in 647ms (Views: 645.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/body.self-25a8114f8c811f0b02372a6e18341a87dbdd40110ff29d76fd3ad15538d1dc4c.css?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 13:59:41 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:00:02 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (60.8ms)
+Completed 200 OK in 280ms (Views: 279.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/body.self-bba758d96b31d4523bd719275d11a4af2401a1bd2c3fc30c8ed03e29852419e3.css?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:00:03 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:00:08 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (68.9ms)
+Completed 200 OK in 257ms (Views: 256.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/body.self-59979233f34fdb26aa740867ebfe6ea251321b4f1ddb97d232685a93b7d6cf05.css?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:00:08 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:00:26 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (74.7ms)
+Completed 200 OK in 217ms (Views: 216.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/body.self-741a0a29552ace839d49c1a6388e2cb77666b6da67859f3540cd41b94f8760a0.css?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:00:26 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:01:35 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (75.3ms)
+Completed 200 OK in 265ms (Views: 264.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/body.self-639616a466f693a09400d2371e9a627311f981a966f721b5edf586749b23281e.css?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:01:36 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:02:28 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (81.3ms)
+Completed 200 OK in 281ms (Views: 280.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/body.self-e6806bb3d9cdc122522386427e8c4552241c53666cff6e85db975ff28b779c60.css?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:02:28 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:02:42 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (70.3ms)
+Completed 200 OK in 236ms (Views: 235.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/components/modal.self-cd0fe39456a8af3f58310ddd79cb60bf12545a8b4cd28399a6ea7d7fcdf157c9.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:02:42 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:03:33 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (83.6ms)
+Completed 200 OK in 616ms (Views: 614.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:03:33 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:03:33 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:03:33 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:03:33 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/components/app.self-1b72587ad370fdad3c2751235cd59034cba42c5ae2389effad031b1360bddb71.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:03:34 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:05:03 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (80.0ms)
+Completed 200 OK in 782ms (Views: 780.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/button.self-8c0387bd38d1c514eb8143e41a6b4cd0275e1149651e4964dba2777f0340bd72.css?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/components/app.self-faaad4fdceb74fe8806ec64a6ed4acca95435129f098418cb90becd648cf7a39.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:05:04 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:05:18 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (85.7ms)
+Completed 200 OK in 240ms (Views: 239.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:05:18 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:05:18 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/button.self-57484da8382122c599ac5c98683d6f7f53ae8592f7981d36b8f3c3bceff04a3e.css?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/components/app.self-faaad4fdceb74fe8806ec64a6ed4acca95435129f098418cb90becd648cf7a39.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:19 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:05:30 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (64.8ms)
+Completed 200 OK in 198ms (Views: 197.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:05:30 +1000
+
+
+Started GET "/assets/button.self-071712859e8642881c6cf618fc32a6bab0539851f7a322154ddd132ebc7dcaae.css?body=1" for ::1 at 2015-06-25 14:05:30 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:05:30 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:05:30 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:05:30 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:05:30 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:05:30 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/components/app.self-faaad4fdceb74fe8806ec64a6ed4acca95435129f098418cb90becd648cf7a39.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:31 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:05:48 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (70.2ms)
+Completed 200 OK in 558ms (Views: 557.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/components/app.self-a75ac266306c6d9e7f50c17d817b8d9b6fb041c4cb6ab8774ab7a0faa0f97d93.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/assets/button.self-071712859e8642881c6cf618fc32a6bab0539851f7a322154ddd132ebc7dcaae.css?body=1" for ::1 at 2015-06-25 14:05:49 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:05:58 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (62.7ms)
+Completed 200 OK in 521ms (Views: 520.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/button.self-071712859e8642881c6cf618fc32a6bab0539851f7a322154ddd132ebc7dcaae.css?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/components/app.self-5ff0c59f58ba0b802875d75ad17704061878689fb6d8476faee31ac9ad6dd454.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:05:59 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:06:30 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (98.2ms)
+Completed 200 OK in 810ms (Views: 808.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/button.self-071712859e8642881c6cf618fc32a6bab0539851f7a322154ddd132ebc7dcaae.css?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/modal.self-b1a9bfab13018ae8f20f0da8caf6cc5947dec1371a70fc24a07994df0b63a2e8.css?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/components/app.self-9655fa8df93e08e275ce178f2246dedb695adbc3dc43f28206f9b548ac00fee7.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:06:31 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:07:00 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (83.8ms)
+Completed 200 OK in 332ms (Views: 330.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/button.self-071712859e8642881c6cf618fc32a6bab0539851f7a322154ddd132ebc7dcaae.css?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/modal.self-5bf5e1dfca0b2ab243d882ca7b3b16e8757f3208a300cc977133d1a29bb285c4.css?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/assets/components/app.self-9655fa8df93e08e275ce178f2246dedb695adbc3dc43f28206f9b548ac00fee7.js?body=1" for ::1 at 2015-06-25 14:07:01 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:07:18 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (70.2ms)
+Completed 200 OK in 208ms (Views: 207.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/button.self-5446cea173893f902cd89dc118564ec08421eaf397ce26a430f279fa811d3774.css?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/modal.self-5bf5e1dfca0b2ab243d882ca7b3b16e8757f3208a300cc977133d1a29bb285c4.css?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/components/app.self-9655fa8df93e08e275ce178f2246dedb695adbc3dc43f28206f9b548ac00fee7.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:07:18 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:07:39 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (61.2ms)
+Completed 200 OK in 210ms (Views: 208.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/body.self-19fafcccafe1688eb5c4125ddec0ff2af25571fdcaaef75708203b27a6130b02.css?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/button.self-f3096e6b9b6dbf6b678c735cb782a055f0da0c8b0e017ce13728b507abd3af63.css?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/modal.self-5bf5e1dfca0b2ab243d882ca7b3b16e8757f3208a300cc977133d1a29bb285c4.css?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/components/app.self-9655fa8df93e08e275ce178f2246dedb695adbc3dc43f28206f9b548ac00fee7.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:07:39 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:08:36 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (88.0ms)
+Completed 200 OK in 675ms (Views: 673.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/button.self-f3096e6b9b6dbf6b678c735cb782a055f0da0c8b0e017ce13728b507abd3af63.css?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/modal.self-2d5f05f8f7baa157e4db844826f72c2a0752cd9d22c0715a2c852e88fd2a31e5.css?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:08:37 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:08:52 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (75.6ms)
+Completed 200 OK in 262ms (Views: 261.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/button.self-f3096e6b9b6dbf6b678c735cb782a055f0da0c8b0e017ce13728b507abd3af63.css?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/modal.self-8d5cab725f6141b570935340f8757524ad5ad2e22e3242b3a5f780f0acd20317.css?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:08:52 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:09:01 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (59.5ms)
+Completed 200 OK in 208ms (Views: 207.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/modal.self-6eb6ce48306caec884596ffc623931b3495d68f363c6e020f9c42c5d4aecee05.css?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/button.self-f3096e6b9b6dbf6b678c735cb782a055f0da0c8b0e017ce13728b507abd3af63.css?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:09:01 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:09:37 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (59.6ms)
+Completed 200 OK in 217ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/button.self-f3096e6b9b6dbf6b678c735cb782a055f0da0c8b0e017ce13728b507abd3af63.css?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/modal.self-a148beb98bbe418c472956c1e400b67864771fbbb1cec9b2e23c2d215bb940a8.css?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:09:37 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:09:55 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (103.7ms)
+Completed 200 OK in 264ms (Views: 263.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/button.self-f3096e6b9b6dbf6b678c735cb782a055f0da0c8b0e017ce13728b507abd3af63.css?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/modal.self-661249212f9f443218429ff20ebf284da8cf44d045e8a54d66fa20161489d39b.css?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:09:55 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:10:44 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (72.4ms)
+Completed 200 OK in 270ms (Views: 268.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/button.self-2b9f52ec92a61731b13c47c56ac5965abcdf41be14c48c0c7f7097c3e23bd9fe.css?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/modal.self-661249212f9f443218429ff20ebf284da8cf44d045e8a54d66fa20161489d39b.css?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:10:44 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:11:34 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (77.6ms)
+Completed 200 OK in 315ms (Views: 314.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/button.self-dad98e2707797a304fcb34106d002edb2ac76490fa596b014547965ebaf8a1e2.css?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/modal.self-661249212f9f443218429ff20ebf284da8cf44d045e8a54d66fa20161489d39b.css?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:11:34 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 14:33:46 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (85.1ms)
+Completed 200 OK in 447ms (Views: 439.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-4924a76f46cc621411476981bafd4a91491382262f9641e9e78f1a84561b0fb2.css?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/body.self-958c103f031fc835af0443862395a86d788658c9f2541f57ae71192bd9712198.css?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/button.self-dad98e2707797a304fcb34106d002edb2ac76490fa596b014547965ebaf8a1e2.css?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/modal.self-f115782ecb9accf5a4f4eb0a205de406b2414eafbed138ba9eaf64c39c74a075.css?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 14:33:46 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 16:59:26 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (1309.3ms)
+Completed 200 OK in 1940ms (Views: 1929.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/acknowledgements.self-75901320b1fc5af47cccf56e2f1799990742d13073ab5554931fe77736f9046b.css?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/body.self-ba4f5de8d1ddc71e5326b9ce707e9a6514f8dbeb10c7f5a635601905d5e2db48.css?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/button.self-a245e97cc2e854b840004a4fed3da435f57fffafdf4fab3942eb95033fbe7552.css?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/modal.self-36ee5a404065f32063043344554a1054fe1d0b503976bf430959fdb569c74c12.css?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/react_ujs.self-9e59229b64f3630c4c2a3811ede5c049c720faf2cb91112e255eead642284727.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/development-with-addons/react.self-9e73672ed97ecc33f75a72c723b256563f0ab6b68a30a67f55958f82cf14279e.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/components/app.self-d712313ef5e7d4ef0098aa8ed6fb96fb68549f5d8507e889047e2bb1f7ffdc6c.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/components/modal.self-e6a73c00e79158c2272994d4827552828b337b6bd70595f4811a1660177e64cc.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/components.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/eventemitter.self-b7e538902dfb3dce50e80598efaa7b435781b7bc8fe936a7aca64a6f2699d411.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/flux.self-d49657677b043fd9a5b56222b931c6dc76b57db2cff9d5967d80f300ee2f4545.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/dispatcher.self-a91375ccd344ed2bd97d7a93261c3a9f551d6c76e86ce635d94532838e47c2d5.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/lib/class_name.self-cefd0a79d4108002b2c5911291a3a24f6467f99d88f51ba145b8acbd39f84fbf.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/assets/application.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-25 16:59:30 +1000
+
+
+Started GET "/" for ::1 at 2015-06-25 17:00:55 +1000
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (613.7ms)
+Completed 200 OK in 780ms (Views: 769.6ms | ActiveRecord: 0.0ms)

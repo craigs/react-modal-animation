@@ -1,0 +1,61 @@
+.modal {
+
+  &.modal-appear {
+    background: rgba(0, 0, 0, 0);
+    -webkit-box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0);
+    -moz-box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0);
+    box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0);
+    transition: all .5s ease;
+  }
+
+  &.modal-appear.modal-appear-active {
+    background: rgba(0, 0, 0, 0);
+    -webkit-box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0.7);
+    -moz-box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0.7);
+    box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0.7);
+  }
+
+  &:not(.modal-appear):not(.modal-appear-active) {
+    background: rgba(0, 0, 0, 0);
+    -webkit-box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0.7);
+    -moz-box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0.7);
+    box-shadow: inset 0px -200px 200px 200px rgba(0,0,0,0.7);
+  }
+
+}
+
+.modal {
+
+  bottom: 0;
+  left: 0;
+  overflow: auto;
+  position: fixed;
+  right: 0;
+  top: 0;
+
+  .body {
+    background: #ffffff;
+    border-radius: 5px;
+    min-height: 300px;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    width: 300px;
+    -webkit-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.63);
+    -moz-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.63);
+    box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.63);
+
+    button {
+      margin-top: 1rem;
+      font-size: 1rem;
+      display: block;
+      width:100%;
+      background: #ededed;
+      color: #444444;
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+    }
+  }
+
+}

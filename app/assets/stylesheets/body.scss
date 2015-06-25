@@ -1,0 +1,42 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: Helvetica, Arial;
+}
+
+body {
+  background: url("http://i.imgur.com/KCa8KHY.png");
+}
+
+a {
+
+  border-bottom: 2px solid transparent;
+  color: #8bfff8;
+  text-decoration: none;
+
+  &:hover {
+    border-bottom: 2px solid #8bfff8;
+    color: #ffffff;
+  }
+
+}
+
+
+.app {
+
+  margin: 5rem;
+
+  h1 {
+    color: #ffffff;
+    font-size: 5rem;
+    text-shadow: 2px 2px rgba(0,0,0,0.75);
+  }
+
+  p {
+    color: #ffffff;
+    font-size: 3rem;
+    text-shadow: 2px 2px rgba(0,0,0,0.75);
+  }
+}
